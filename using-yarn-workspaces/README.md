@@ -1,0 +1,6 @@
+- do not do npm install from within the package
+- a common node module will be installed on the root level
+- only install relevant deps in the respective package.json
+- root package.json should include common deps that needs to be shared across all the packages
+- yarn will not install a particular dependency everytime
+- Use yarn why <dep> to know more about why a dependency was installed

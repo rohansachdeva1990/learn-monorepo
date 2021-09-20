@@ -1,0 +1,9 @@
+{
+  "name": "@rohan/common",
+  "version": "1.0.0",
+  "main": "./src/index.js",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "1.0.0"
+  }
+}
