@@ -1,5 +1,5 @@
 import React from 'react';
 
 export function Button() {
-  return <button>Click Me From Core</button>;
+  return <button>Click Me From Core - 12143</button>;
 }
